@@ -1,0 +1,30 @@
+
+#I started working on the project
+#(the description provided with https://github.com/woltapp/backend-internship-2025.git )
+#using OOP in Python3.x and FastAPI as my tools,
+#also uvicorn ASGI, and some libraries such math, fastapi, etc.
+#As you can see, the deadline was on 26th January 2025,
+#but I prefer to finish this project as a part of my portfolio boosting process.
+#Back to topic -->
+#I tried to run my code, but it failed with some request errors
+#(I couldn't get th right data from my static/dynamic provided lists).
+#So, now on I would like to create a working DOPC service,
+#and to make the code clearer and my brain as well :/
+
+
+annotated-types==0.7.0
+anyio==4.8.0
+click==8.1.8
+fastapi==0.115.7
+h11==0.14.0
+idna==3.10
+pydantic==2.10.6
+pydantic_core==2.27.2
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.17.0
+sniffio==1.3.1
+starlette==0.45.3
+typing_extensions==4.12.2
+tzdata==2025.1
+uvicorn==0.34.0
