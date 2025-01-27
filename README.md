@@ -4,19 +4,16 @@ Building a DOPC ~ Delivery Order Price Calculator as a case for Wolt internship 
 
 The basic logic of my code consists of:
 
-requirements.txt
-main.py
-app.py
+1) requirements.txt
 
-"API" folder ~  __init__.py (empty as others)  ,   endpoints.py
+2) main.py
 
-"models" folder
-|__  __init__.py 
-|__ calculator.py
-|__ location.py
-|__ order.py
+3) app.py
 
-"tests" folder       #empty, because the whole code isn;t completed yet
-|__ __init__.py
-|__ api_test.py 
-|__ calculator_test.py
+4) "API" folder ~  __init__.py (empty as others)  ,   endpoints.py
+
+5) "models" folder ~  __init__.py  ,  calculator.py  ,   location.py  ,   order.py
+
+#empty, because the whole code isn't completed yet
+
+6)  "tests" folder  ~  __init__.py  ,   api_test.py  ,  calculator_test.py
