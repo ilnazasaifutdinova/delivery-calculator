@@ -8,9 +8,7 @@ requirements.txt
 main.py
 app.py
 
-"API" folder
-|__  __init__.py     #it's by default empty, so this type of code won't be downloaded. 
-|__  endpoints.py
+"API" folder ~  __init__.py (empty as others)  ,   endpoints.py
 
 "models" folder
 |__  __init__.py 
